@@ -1,2 +1,7 @@
 # color-picker-
 COLOR PICKER ACTIVE AND PASSIVE METHODS, USING TKINTER MODULE
+HOW TO INSTALL : 
+1. pip install -r requirements.txt
+2. python main.py
+
+HAPPY CODING AND STAY SAFE EVERYONE, COVID STILL HERE :(
